@@ -13,7 +13,7 @@ Bu depoda, Patika Platformu'nda tamamladığım Java projelerini bulabilirsiniz.
 
 1. **Not Ortalaması Hesaplayıcı**: Öğrencilerin dönem sonu notlarını girerek not ortalamasını hesaplayan bir Java programı.
 2. **Ürün KDV Hesaplayıcı**: Belirli bir ürünün fiyatı ve KDV oranını alarak KDV dahil fiyatını hesaplayan bir Java programı.
-3. **üçgen'in hipotenüsü'nü bulma" 
+3. ** üçgen'in hipotenüsü'nü bulma** 
 
 
 ## Lisans
