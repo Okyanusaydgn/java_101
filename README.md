@@ -1,3 +1,6 @@
+
+![image](https://github.com/Okyanusaydgn/java_101/assets/121745165/a67bb5ac-e530-4bd8-9cce-7ef6c4181e94)
+
 # Patika Platformu Java Projeleri
 
 ## Projeler
